@@ -1,5 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on .Net Projects.<br>👯 I’m looking to collaborate on Web Development Projects.<br>🤝 I’m looking for help with Database Handling.<br>🌱 I’m currently learning Backend Integration.<br>
 
 
 ## 🌐 Socials:
